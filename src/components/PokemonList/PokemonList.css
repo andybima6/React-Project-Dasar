@@ -5,3 +5,13 @@
     flex-wrap: wrap;
     margin: 100px auto;
 }
+.search{
+    display: block;
+    width: 70vh;
+    padding: 15px;
+    margin: 50px auto 50px;
+    font-size: 1rem;
+    box-shadow: 3px 5px;
+    border-radius: 5px;
+    border: 2px solid black;
+}
